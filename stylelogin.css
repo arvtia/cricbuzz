@@ -1,0 +1,177 @@
+body{
+    margin: 0 auto;
+    max-width: 65%;
+    background-color: #E3E6E3;
+    padding: 6px;
+    height: 100%;
+}
+
+header{
+    background-color: #009270;
+}
+header img{
+    height: 50px;
+    margin: 10px;
+}
+
+.privay{
+     display: flex;
+        position: relative;
+        font-size: 12px;
+        left: 24%;
+        margin-top: 0%;
+}
+.main{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: white;
+    height: 1200px;
+    margin-top: 9px;
+}
+#login-h{
+    position: relative;
+    font-family: sans-serif;
+    left: 38%;
+    font-size: 29px;
+    margin-top: 33px;
+}
+#login-line{
+    width: 22%;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 174px;
+    position: relative;
+    margin-top: 0px;
+}
+
+.main-2{
+    height: auto;
+    width: 487px;
+    background-color: white;;
+    display: grid;
+    align-items: center;
+    margin-top: -276px;
+}
+#input-email{
+    border-radius: 5px;
+    height: 53px;
+    font-size: 17px;
+    margin: 3px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0px 0px 0px 0.3px;
+    margin-top: 44px;
+
+}
+.check{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    
+    border-radius: 4px;
+    margin-left: 74px;
+    margin-right: 74px;
+    padding: 8px;
+    margin-top: 76px;
+    box-shadow: 0px 0px 0px 0.4px;
+}
+
+.check input {
+    scale: 2.3;
+    position: relative;
+    left: 11px;
+}
+.check p{
+    position: relative;
+    left: 20px;
+}
+
+.check img{
+    
+    height: 53px;
+    position: relative;
+    left: 139px;
+}
+
+.check-g-cap{
+    display: block;
+
+}
+.check-g-cap p{
+    
+    left: 214%;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#continue-b{
+    background-color: #71CAB6;
+    font-size: 17px;
+    color: white;
+    padding: 13px;
+    border: none;
+    position: relative;
+    top: 37px;
+    box-shadow: 0px 0px 0px 0.4px;
+}
+#sign-up{
+    position: relative;
+    margin-top: 62px;
+    left: 144px;
+}
+
+#or-id{
+    position: relative;
+    left: -47%;
+    background-color: white;
+    margin-left: 90%;
+    padding: 5px;
+    margin-top: -29px;
+}
+#line{
+    position: relative;
+    width: 100%;
+    margin-top: 46px;
+}
+.google-continue{
+    width: 100%;
+    display: flex;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    box-shadow: 0px 0px 0px 1px;
+    position: relative;
+}
+.google-continue p{
+    font-size: 19px;
+    position: relative;
+    left: 137px;
+
+}
+.google-continue img{
+    height: 42px;
+    position: relative;
+    left: 133px;
+    margin-top: 6px;
+}
+#google-i{
+    position: relative;
+    top: 37px;
+}
+#apple-i{
+    position: relative;
+    top: 37px;
+}
+
+
+/*------footer------*/
+
+
+
+
